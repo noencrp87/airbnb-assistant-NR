@@ -1,5 +1,0 @@
-OLLAMA_HOST="http://localhost:11434"
-OLLAMA_MODEL="qwen2.5:3b-instruct"
-
-ICAL_PARAGUAY=https://calendar.google.com/calendar/ical/116bc6dc0079871cdcd07cb458276da581bd4525aaf2305ac5e70a94350887b9%40group.calendar.google.com/private-59a6a125b3f61a0698cbb24f9aa142cb/basic.ics
-ICAL_RECOLETA=https://calendar.google.com/calendar/ical/92c34b182a4fffa5e9932cd89b7402a59345fd54cacc320423c994f802595511%40group.calendar.google.com/private-41df5e5abdf7acf38ec54655ed57dc06/basic.ics

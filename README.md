@@ -206,5 +206,5 @@ python -m streamlit run app.py
 
 ✨ Créditos
 
-Proyecto creado por Sabrina Jablonzki - Noelia Ramírez - Victor Ruiz
+Proyecto creado por Sabrina Jablonski - Noelia Ramírez - Victor Ruiz
 Maestría en Ciencia de Datos – Universidad Austral

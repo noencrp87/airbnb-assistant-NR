@@ -243,10 +243,4 @@ python -m streamlit run app.py
 # 👩‍💻 Créditos
 
 Proyecto desarrollado por  
-**Noelia Ramírez – Maestría en Ciencia de Datos – Universidad Austral**  
-Equipo / Profesor: completar si corresponde
-
----
-
-# 🌟 ¿Querés que agregue screenshots, diagramas RAG o setup rápido?
-¡Puedo generarlos también!  
+**Jablonski - Ramírez - Ruiz – Maestría en Ciencia de Datos – Universidad Austral**  
